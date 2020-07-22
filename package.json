@@ -4,7 +4,7 @@
     "description"  : "MCP23017 controller",
     "dependencies" : {
 		"node-mcp23017":"0.0.5",
-	    	"i2c":"0.2.2"
+	    	"i2c":"5.2.0"
     },
     "license"     : "Apache-2.0",
     "homepage"    : "https://github.com/afulki/node-red-contrib-mcp23017",
